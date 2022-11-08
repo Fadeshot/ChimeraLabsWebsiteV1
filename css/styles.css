@@ -1,0 +1,75 @@
+body {
+    font-family: 'Montserrat';
+}
+.container-fluid {
+    padding: 3% 19%;
+}
+#title {
+    background-color: #9aa4ec
+}
+.chimeraint {
+    padding: 15% 7%;
+
+}
+.chimeraimg {   
+    text-align: center; 
+}
+.chimerah1 {
+    font-size: 4.5rem;
+    font-weight: bold;
+}
+.chimerah3 {
+    font-size: 1.5rem;
+}
+
+#apollo {
+    background-color: #bba7ff;
+}
+.apolloint {
+    padding: 15% 7%;
+
+}
+.apolloimg {   
+    text-align: center; 
+}
+.apolloh1 {
+    font-size: 4.5rem;
+    font-weight: bold;
+}
+.apolloh3 {
+    font-size: 1.5rem;
+}
+
+#hex {
+    background-color: #4da1d3;
+}
+.hexint {
+    padding: 7% 15%;
+
+}
+.heximg {   
+    text-align: center; 
+}
+.hexh1 {
+    font-size: 4.5rem;
+    font-weight: bold;
+}
+.hexh3 {
+    font-size: 1.5rem;
+}
+.navbar-brand {
+    font-size: 2rem;
+    font-weight: bold;
+}
+.nav-link {
+    font-weight: bold;
+}
+
+#footer {
+    background-color: #C5C6D0;
+    text-align: center;
+    padding: 5% 10%;
+}
+.icon {
+    margin: 0.5rem;
+}
